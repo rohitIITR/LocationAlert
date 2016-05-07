@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocationAlert</string>
+    <string name="action_voice">Voice Search</string>
+    <string name="Location">Enter the Location</string>
+    <string name="dis">Distance (km)</string>
+    <string name="Alert_text">Alert!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="str_rb_normal">Normal</string>
+    <string name="str_rb_satellite">Satellite</string>
+    <string name="str_rb_terrain">Terrain</string>
+    <string name="str_rb_hybrid">Hybrid</string>
+</resources>
