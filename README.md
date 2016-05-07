@@ -1,0 +1,2 @@
+# LocationAlert -Android Application
+LocationAlert is an android application that lets you to remind before reaching a particular location when you are travelling somewhere else.You don’t have to worry, just set the places you want to go in Location alert app and set the distance .The alarm will ring before you reaches each preset locations depending upon distance specified by you from the particular entered location.This project included the use of Google maps API v2 ,intent for voice recognition,and different UI elements etc.
